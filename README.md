@@ -2,11 +2,9 @@
 
 ## Description
 
-This page runs fomr JavaScript that performs calcuations from an array of finance data and displays these in the "console".
+This page runs a JavaScript that performs calculations from finance data heldin an array and then displays these calculations in the browser "console".
 
 ## Table of Contents
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
 
 * [Links](#links)
 * [Installation](#installation)
@@ -27,8 +25,6 @@ N/A
 ## Usage 
 
 Ensure the web tools are open on the browser with the Console displayed. Upon opening the page the script will run and display the "Financial Analysis" in the console
-
-![screenshot of web page](./images/console-finances_screenshot.png)
 
 ## License
 
